@@ -1,8 +1,15 @@
 import React, { Component } from 'react'
+import './index.css'
 
 class Home extends Component {
   render() {
-    return <div>SCA react-frontend-starter!</div>
+    return (
+      <div className="Main-Page">
+        <h>
+          Hello World!
+        </h>
+      </div>
+    )
   }
 }
 

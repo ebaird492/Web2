@@ -1,0 +1,6 @@
+.Main-Page{
+    height: 80vmin;
+    background-image: url('./flame-smoke.jpg');
+    display: flex;
+    justify-content: center;
+}

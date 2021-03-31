@@ -5,6 +5,7 @@ import { ThemeProvider } from 'styled-components'
 import theme from './theme'
 import client from './client'
 import Home from './containers/Home/'
+import Ethan from './containers/Ethan/'
 
 class App extends Component {
   render() {
@@ -14,7 +15,8 @@ class App extends Component {
           <ApolloProvider client={client}>
             <div className="App">
               <Switch>
-                <Route path="/" component={Home} />
+                <Route exact path="/" component={Home} />
+                <Route path="/Ethan-Baird" component={Ethan} />
               </Switch>
             </div>
           </ApolloProvider>

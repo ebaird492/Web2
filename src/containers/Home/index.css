@@ -1,6 +1,18 @@
+.Main-Colorado{
+    height: 40vmin;
+    width: 40vmin;
+    pointer-events: none;
+}
+
+.Main-Header{
+    color: white;
+    font-size: calc(2px + 10vmin);
+}
+
 .Main-Page{
-    height: 80vmin;
-    background-image: url('./flame-smoke.jpg');
+    height: 100vmin;
+    background-image: url('./woodback.png');    
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }

@@ -18,11 +18,6 @@
 }
 
 .Main-Page{
-    height: 100%;
+    height: 100vmin;
     text-align: center;
-    background-image: url('./woodback.png');
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
 }

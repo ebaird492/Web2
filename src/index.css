@@ -1,3 +1,9 @@
+.App{
+    height: 100%;
+    background-image: url('./woodback.png');
+    background-size: cover;
+}
+
 .NavBar{
     background-color: #333;
     overflow: hidden;
@@ -5,7 +11,7 @@
 
 .NavBar a{
     float: left;
-    color: #f2f2f2;
+    color: #ce8989;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -14,4 +20,9 @@
 
 .NavBar a:hover{
     color: rgb(162, 162, 201);
+}
+
+.NavBar a:active{
+    color: rgb(255, 255, 255);
+    background-color: rgb(133, 133, 133)
 }

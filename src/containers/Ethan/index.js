@@ -8,6 +8,9 @@ class Ethan extends Component {
                 <h>
                     Hello Python World!
                 </h>
+                <p>
+                    I will tell you that this website is the best!
+                </p>
             </div>
         )
     }

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Web2/static/css/main.aea7fff4.chunk.css",
+    "main.js": "/Web2/static/js/main.d630ad58.chunk.js",
+    "main.js.map": "/Web2/static/js/main.d630ad58.chunk.js.map",
+    "runtime~main.js": "/Web2/static/js/runtime~main.a8300c3d.js",
+    "runtime~main.js.map": "/Web2/static/js/runtime~main.a8300c3d.js.map",
+    "static/js/2.e17aa960.chunk.js": "/Web2/static/js/2.e17aa960.chunk.js",
+    "static/js/2.e17aa960.chunk.js.map": "/Web2/static/js/2.e17aa960.chunk.js.map",
+    "index.html": "/Web2/index.html",
+    "precache-manifest.150f736ae128488bbc293f05de19fe41.js": "/Web2/precache-manifest.150f736ae128488bbc293f05de19fe41.js",
+    "service-worker.js": "/Web2/service-worker.js",
+    "static/css/main.aea7fff4.chunk.css.map": "/Web2/static/css/main.aea7fff4.chunk.css.map",
+    "static/media/colorado.png": "/Web2/static/media/colorado.e65ccfd9.png",
+    "static/media/index.css": "/Web2/static/media/woodback.39d260bd.png"
+  }
+}
